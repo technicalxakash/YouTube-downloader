@@ -1,0 +1,6 @@
+python -m fastapi dev main.py
+
+
+Using JavaScript to send request and take it as a form
+
+
